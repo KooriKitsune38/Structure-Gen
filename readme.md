@@ -16,6 +16,7 @@ Then you'll need a "placer" which is the marker that is going to offset it, and 
 At this point you'll have two structures, your main structure and the "placer" structure which you just saved.
 
 Now to the coding stuff:
+---
 Create a configured_feature with a fossils preset.
 
 Now you'll have a fossil_structure and the overlay_structure.

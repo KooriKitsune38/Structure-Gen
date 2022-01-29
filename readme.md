@@ -4,7 +4,7 @@
 It uses fossils to generate markers and offsets them to the surface, which will then generate the structure
 
 ## Setup
-This is a template, so I can't give you exact steps on how to do it.
+*This is a template, so I can't give you exact steps on how to do it.*
 First of all you need a structure, so build it and save it.
 
 Then you'll need a "placer" which is the marker that is going to offset it, and to make it follow these steps:

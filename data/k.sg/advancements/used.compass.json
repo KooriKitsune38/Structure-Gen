@@ -1,0 +1,22 @@
+{
+    "criteria": {
+        "trigger":{
+            "trigger": "item_used_on_block",
+            "conditions": {
+                "item": {
+                    "items": [
+                        "compass"
+                    ]
+                },
+                "player": {
+                    "player": {
+                        "gamemode": "creative"
+                    }
+                }
+            }
+        }
+    },
+    "rewards":{
+        "function": "k.sg:used.compass"
+    }
+}

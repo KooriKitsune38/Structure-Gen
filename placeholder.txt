@@ -1,0 +1,1 @@
+/execute align xyz run summon marker ~.5 ~ ~.5 {Tags:[k.pPlacer,k.pTest],data:{ignoreEntities:0b,sizeY:0,sizeZ:0,sizeX:0,posY:0,name:""}}

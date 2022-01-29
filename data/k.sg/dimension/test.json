@@ -1,0 +1,37 @@
+{
+    "type": "minecraft:overworld",
+    "generator": {
+      "type": "minecraft:noise",
+      "seed": 2133217684,
+      "settings": "k.sg:weirdnoise2",
+      "biome_source": {
+        "type": "minecraft:multi_noise",
+        "biomes": [
+          {
+            "biome": "k.sg:biotest",
+            "parameters": {
+              "continentalness": 0,
+              "depth": 1.5,
+              "erosion": 0,
+              "humidity": 0,
+              "temperature": 0,
+              "weirdness": 0,
+              "offset": 0
+            }
+          },
+          {
+            "biome": "k.sg:whisky",
+            "parameters": {
+              "continentalness": 0,
+              "depth": 0,
+              "erosion": 0,
+              "humidity": 0,
+              "temperature": 0,
+              "weirdness": 1,
+              "offset": 0
+            }
+          }
+        ]
+      }
+    }
+  }

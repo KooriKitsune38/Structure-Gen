@@ -1,0 +1,55 @@
+{
+    "type": "simple_block",
+    "config": {
+        "to_place": {
+            "type": "minecraft:weighted_state_provider",
+            "entries": [
+                {
+                    "data": {
+                        "Name": "podzol"
+                    },
+                    "weight": 10
+                },
+                {
+                    "data": {
+                        "Name": "coarse_dirt"
+                    },
+                    "weight": 1
+                },
+                {
+                    "data": {
+                        "Name": "rooted_dirt"
+                    },
+                    "weight": 1
+                },
+                {
+                    "data": {
+                        "Name": "moss_block"
+                    },
+                    "weight": 1
+                },
+                {
+                    "data": {
+                        "Name": "grass"
+                    },
+                    "weight": 10
+                },
+                {
+                    "data": {
+                        "Name": "azalea"
+                    },
+                    "weight": 6
+                },
+                {
+                    "data": {
+                        "Name": "tall_grass",
+                        "Properties": {
+                            "half":"lower"
+                        }
+                    },
+                    "weight": 9
+                }
+            ]
+        }
+    }
+}

@@ -19,7 +19,6 @@ Now to the coding stuff:
 Create a configured_feature with a fossils preset.
 
 Now you'll have a fossil_structure and the overlay_structure.
-
 The "fossil_structure" needs to be air (basically a structure with 0,0,0 size) which is the center of the fossil, and "overlay_structure" is your "placer".
 > [SideNote Each time you add a new placer, you will need to add an "air" structure to the list, otherwise it won't generate.]
 
